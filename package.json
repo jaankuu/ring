@@ -1,0 +1,22 @@
+{
+  "name": "ring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "escape-regexp-component": "^1.0.2",
+    "title-case-minors": "^1.0.0",
+    "to-capital-case": "^1.0.0",
+    "to-no-case": "^1.0.2",
+    "to-sentence-case": "^1.0.0",
+    "to-space-case": "^1.0.0",
+    "to-title-case": "^1.0.0"
+  },
+  "scripts": {
+    "title": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
